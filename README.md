@@ -3,25 +3,6 @@
 
 <h1 align="center">Base Apparel Coming Soon Page</h1>
 
-<div align="center">
-  <h3>
-    <a href="https://catherineisonline.github.io/base-apparel-coming-soon-frontendmentor/" color="white">
-      Live
-    </a>
-    <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-KdvKyw8NE#comment-62207992f54ba279579c06ec">
-      Solution
-    </a>
-   <span> | </span>
-    <a href="https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0">
-      Challenge
-    </a>
-  </h3>
-</div>
-<div align="center">
-   Solution for a challenge from  <a href="https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC" target="_blank">frontendmentor.io</a>.
-</div>
-<br>
 <br>
 <br>
 
@@ -58,11 +39,11 @@ My second project where I used some email validation process. Another quick proj
 
 ## Useful resources
 
-1. <a href="https://www.figma.com/">Figma</a> - Paste your design image to check the size of containers, width, etc.
-2. <a href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi">Perfect Pixel</a> - Awesome Chrome extension that helps you to match the pixels of the provided design.
+1. <a /">Figma</a> - Paste your design image to check the size of containers, width, etc.
+2. <a ">Perfect Pixel</a> - Awesome Chrome extension that helps you to match the pixels of the provided design.
 
 
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-KdvKyw8NE#comment-62207992f54ba279579c06ec">solution</a>. It definitely helps to find new ways to code and find easier solutions! 
+A big thank you to anyone providing feedback on my <a">solution</a>. It definitely helps to find new ways to code and find easier solutions! 
