@@ -39,11 +39,11 @@ My second project where I used some email validation process. Another quick proj
 
 ## Useful resources
 
-1. <a /">Figma</a> - Paste your design image to check the size of containers, width, etc.
-2. <a ">Perfect Pixel</a> - Awesome Chrome extension that helps you to match the pixels of the provided design.
+1. Figma - Paste your design image to check the size of containers, width, etc.
+2. Perfect Pixel - Awesome Chrome extension that helps you to match the pixels of the provided design.
 
 
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a">solution</a>. It definitely helps to find new ways to code and find easier solutions! 
+A big thank you to anyone providing feedback on my <solution. It definitely helps to find new ways to code and find easier solutions! 
